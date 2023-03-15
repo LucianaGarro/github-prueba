@@ -1,0 +1,11 @@
+.primer_parrafo {
+    color: blueviolet;
+    font-size: $size;
+}
+
+$tamano:20px;
+p {
+    color: $color;
+    text-transform: uppercase;
+    font-size: $tamano;
+}
